@@ -21,7 +21,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃 허 브 아 이 디&show_icons=true&theme=radical)    
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjungg&show_icons=true&theme=radical)    
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjungg&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
