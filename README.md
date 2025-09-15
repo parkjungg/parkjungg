@@ -11,6 +11,8 @@
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/ C%23-blueviolet?style=plastic&logo=C%23&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ Unity-grey?style=plastic&logo=unity&logoColor=white"/>
           </div>
     </div>
     <div align= "center">
