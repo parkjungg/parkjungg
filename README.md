@@ -1,7 +1,5 @@
 # PARK JUNG GI 😉
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 ![JungGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjungg&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjk3665)](https://solved.ac/pjk3665/)
 # 💪Skills
@@ -10,7 +8,7 @@
 ![C++](https://img.shields.io/badge/cplusplus-blueviolet?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal Engine-grey?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/UnrealEngine-grey?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
