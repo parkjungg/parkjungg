@@ -5,7 +5,7 @@
 # 💪Skills
 ### Platforms & Languages
 ![C#](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=C%23&logoColor=white)
-![C++](https://img.shields.io/badge/cplusplus-blueviolet?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/cplusplus-blueviolet?style=for-the-badge&logo=c++&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/UnrealEngine-grey?style=for-the-badge&logo=unrealengine&logoColor=white)
