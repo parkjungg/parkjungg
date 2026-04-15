@@ -1,6 +1,5 @@
 # PARK JUNG GI 😉
 
-![JungGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjungg&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjk3665)](https://solved.ac/pjk3665/)
 # 💪Skills
 ### Platforms & Languages
